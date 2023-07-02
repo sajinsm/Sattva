@@ -1,0 +1,239 @@
+.bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+}
+.govright15Jan20232043281 {
+  position: relative;
+  width: 141px;
+  height: 53px;
+  object-fit: cover;
+}
+.govright15Jan20232043281Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footerInner,
+.frameWrapper,
+.govright15Jan20232043281Wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footerInner {
+  height: 13.18%;
+  width: 9.4%;
+  top: 21.39%;
+  right: 84.33%;
+  bottom: 65.42%;
+  left: 6.27%;
+  display: none;
+}
+.secondaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--b);
+  text-align: right;
+}
+.input,
+.secondaryButton {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.secondaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-white);
+  width: 25%;
+  right: 0;
+  left: 75%;
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.input {
+  border: 1px solid var(--color-aliceblue);
+  background-color: transparent;
+  width: 83.82%;
+  right: 16.18%;
+  left: 0;
+}
+.yourEmail {
+  position: absolute;
+  top: 34.38%;
+  left: 4.41%;
+  font-size: var(--paragraph-size);
+  font-family: var(--paragraph);
+  color: var(--color-aliceblue);
+  text-align: left;
+  opacity: 0.8;
+}
+.formField {
+  position: absolute;
+  height: 30.77%;
+  width: 100%;
+  top: 69.23%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.subscribeToGet {
+  position: absolute;
+  width: 80.88%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 140%;
+  display: inline-block;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: left;
+}
+.form {
+  position: absolute;
+  height: 51.74%;
+  width: 36.27%;
+  top: 23.88%;
+  right: 7.33%;
+  bottom: 24.38%;
+  left: 56.4%;
+}
+.caseStudies,
+.contactUs,
+.services {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.caseStudies,
+.services {
+  top: 67.62%;
+}
+.services {
+  top: 23.81%;
+}
+.home,
+.ourTeam {
+  position: absolute;
+  top: 0;
+}
+.home {
+  left: 0;
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+}
+.ourTeam {
+  height: 100%;
+  width: 13.83%;
+  right: 33.73%;
+  bottom: 0;
+  left: 52.45%;
+}
+.instagram {
+  position: absolute;
+  top: 45.71%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.connect {
+  position: absolute;
+  height: 100%;
+  width: 10.79%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 89.21%;
+}
+.contactsattvacom,
+.div,
+.xyzStreetCity {
+  position: absolute;
+  top: 74.42%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.div,
+.xyzStreetCity {
+  top: 37.21%;
+}
+.xyzStreetCity {
+  top: 0;
+}
+.connect2 {
+  height: 40.95%;
+  width: 29.51%;
+  top: 41.43%;
+  right: 70.49%;
+  bottom: 17.62%;
+  left: 0;
+}
+.connect2,
+.footer,
+.links {
+  position: absolute;
+}
+.links {
+  height: 52.24%;
+  width: 39.53%;
+  top: 24.38%;
+  right: 54.2%;
+  bottom: 23.38%;
+  left: 6.27%;
+}
+.footer {
+  top: 2846px;
+  left: 0;
+  width: 1500px;
+  height: 402px;
+}
+.logoFull1,
+.logoTrans1 {
+  position: absolute;
+  top: 2942.26px;
+  left: 94px;
+  width: 229px;
+  height: 77px;
+  object-fit: cover;
+}
+.logoTrans1 {
+  top: 10px;
+  left: 103px;
+  width: 124px;
+  height: 67px;
+  cursor: pointer;
+}
+.aboutUs {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 3248px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

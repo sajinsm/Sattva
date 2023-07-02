@@ -1,0 +1,75 @@
+.introducingSattvaA,
+.welcomeToSattva {
+  position: absolute;
+  display: inline-block;
+}
+.introducingSattvaA {
+  top: 51px;
+  right: 0;
+  font-size: var(--h1-size);
+  line-height: 120%;
+  width: 1177px;
+}
+.welcomeToSattva {
+  top: 219px;
+  right: 583px;
+  line-height: 160%;
+  color: var(--secondary-text);
+  width: 594px;
+}
+.ourPlatform {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.49%;
+  width: 152.63%;
+  top: -7.17%;
+  right: -168.42%;
+  bottom: 101.69%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 19px;
+  height: 237px;
+  
+  transform-origin: 0 0;
+}
+.header,
+.text {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1273px;
+  height: 349px;
+}
+.header {
+  top: 163px;
+  right: 117px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

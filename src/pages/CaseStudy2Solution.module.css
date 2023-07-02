@@ -1,0 +1,527 @@
+.byLeveragingThe {
+  margin: 0;
+}
+.byLeveragingTheContainer {
+  position: absolute;
+  top: 93px;
+  right: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 1147px;
+  height: 21px;
+}
+.line,
+.line1 {
+  position: absolute;
+  top: 58.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 509px;
+  height: 1px;
+}
+.line1 {
+  top: 58px;
+  left: 179px;
+  border-top: 2px solid var(--color-tomato);
+  width: 158px;
+  height: 2px;
+}
+.theImpact {
+  position: relative;
+  line-height: 160%;
+  font-weight: 500;
+}
+.tab {
+  position: absolute;
+  top: 0;
+  left: 364.34px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.theSolution {
+  position: relative;
+  line-height: 160%;
+  font-weight: 600;
+}
+.tab1 {
+  left: 188.31px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--b);
+}
+.howToSection,
+.tab1,
+.tab2 {
+  position: absolute;
+  top: 0;
+}
+.tab2 {
+  left: 0.31px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.howToSection {
+  right: 0;
+  width: 1186px;
+  height: 114px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 26px;
+  height: 281px;
+}
+.enableAccessibilitySecurityContainer {
+  position: absolute;
+  top: 0;
+  left: 52px;
+  line-height: 160%;
+  display: inline-block;
+  width: 930px;
+  height: 284px;
+}
+.groupParent {
+  position: absolute;
+  top: 144px;
+  left: 39px;
+  width: 982px;
+  height: 284px;
+}
+.groupWrapper,
+.howToSectionParent,
+.postBodyParent {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1186px;
+  height: 428px;
+}
+.groupWrapper,
+.postBodyParent {
+  top: 476px;
+  right: 107px;
+}
+.postBodyParent {
+  top: 87px;
+  right: 1px;
+  width: 1500px;
+  height: 904px;
+}
+.maskGroupIcon,
+.tint {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 557.23px;
+  height: 421px;
+}
+.maskGroupIcon {
+  object-fit: cover;
+}
+.tint {
+  border-radius: var(--br-9xs);
+  background-color: var(--black);
+  opacity: 0.6;
+}
+.secondaryButtonText {
+  position: relative;
+  font-weight: 500;
+}
+.secondaryButton {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--b);
+}
+.highlightingAccessibilityImp {
+  top: 142px;
+  right: 0;
+  line-height: 160%;
+  display: inline-block;
+}
+.content,
+.creatingChangeWith,
+.highlightingAccessibilityImp {
+  position: absolute;
+  width: 427.07px;
+}
+.creatingChangeWith {
+  top: 0;
+  left: 0;
+  font-size: var(--h3-size);
+  line-height: 150%;
+  display: inline-block;
+}
+.content {
+  top: 62px;
+  left: 65.23px;
+  height: 295px;
+}
+.maskGroupIcon1,
+.project {
+  position: absolute;
+  top: 0;
+  height: 421px;
+}
+.project {
+  left: 589.77px;
+  width: 557.23px;
+  cursor: pointer;
+}
+.maskGroupIcon1 {
+  left: 0;
+  width: 555.88px;
+  object-fit: cover;
+}
+.secondaryButton1 {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  width: 141.07px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--b);
+}
+.utilizingTheSattva {
+  position: absolute;
+  top: 142px;
+  right: 14.42px;
+  line-height: 160%;
+  display: inline-block;
+  width: 412.65px;
+}
+.content1 {
+  position: absolute;
+  top: 62px;
+  left: 65px;
+  width: 427.07px;
+  height: 295px;
+}
+.bg,
+.project1,
+.projectRow {
+  position: absolute;
+  top: 0;
+  height: 421px;
+}
+.project1 {
+  left: 0;
+  width: 557.23px;
+  cursor: pointer;
+}
+.bg,
+.projectRow {
+  left: 206px;
+  width: 1147px;
+}
+.bg {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+}
+.govright15Jan20232043281 {
+  position: relative;
+  width: 141px;
+  height: 53px;
+  object-fit: cover;
+}
+.govright15Jan20232043281Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footerInner,
+.frameWrapper,
+.govright15Jan20232043281Wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footerInner {
+  height: 13.18%;
+  width: 9.4%;
+  top: 21.39%;
+  right: 84.33%;
+  bottom: 65.42%;
+  left: 6.27%;
+  display: none;
+}
+.input,
+.secondaryButton2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+}
+.secondaryButton2 {
+  width: 25%;
+  right: 0;
+  left: 75%;
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+}
+.input {
+  width: 83.82%;
+  right: 16.18%;
+  left: 0;
+  border: 1px solid var(--color-aliceblue);
+}
+.yourEmail {
+  position: absolute;
+  top: 34.38%;
+  left: 4.41%;
+  color: var(--color-aliceblue);
+  text-align: left;
+  opacity: 0.8;
+}
+.formField {
+  position: absolute;
+  height: 30.77%;
+  width: 100%;
+  top: 69.23%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.subscribeToGet {
+  position: absolute;
+  width: 80.88%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  line-height: 140%;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: left;
+}
+.form {
+  position: absolute;
+  height: 51.74%;
+  width: 36.27%;
+  top: 23.88%;
+  right: 7.33%;
+  bottom: 24.38%;
+  left: 56.4%;
+}
+.caseStudies,
+.contactUs {
+  position: absolute;
+  top: 89.52%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.caseStudies {
+  top: 67.62%;
+}
+.aboutUs {
+  top: 45.71%;
+  opacity: 0.78;
+}
+.aboutUs,
+.home,
+.services {
+  position: absolute;
+  left: 0;
+  line-height: 160%;
+}
+.services {
+  top: 23.81%;
+  opacity: 0.78;
+}
+.home {
+  top: 0;
+  font-size: var(--paragraph-size);
+}
+.connect,
+.ourTeam {
+  position: absolute;
+  height: 100%;
+  width: 13.83%;
+  top: 0;
+  right: 33.73%;
+  bottom: 0;
+  left: 52.45%;
+}
+.connect {
+  width: 10.79%;
+  right: 0;
+  left: 89.21%;
+}
+.contactsattvacom,
+.div,
+.xyzStreetCity {
+  position: absolute;
+  top: 74.42%;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.78;
+}
+.div,
+.xyzStreetCity {
+  top: 37.21%;
+}
+.xyzStreetCity {
+  top: 0;
+}
+.connect2,
+.links {
+  position: absolute;
+  height: 40.95%;
+  width: 29.51%;
+  top: 41.43%;
+  right: 70.49%;
+  bottom: 17.62%;
+  left: 0;
+}
+.links {
+  height: 52.24%;
+  width: 39.53%;
+  top: 24.38%;
+  right: 54.2%;
+  bottom: 23.38%;
+  left: 6.27%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.footer,
+.groupItem {
+  position: absolute;
+  top: 97px;
+  left: 0;
+  width: 1500px;
+  height: 402px;
+}
+.groupItem {
+  top: 0;
+  background-color: var(--color-tomato);
+  box-shadow: 15px 15px 10px 5px rgba(0, 0, 0, 0.25);
+  width: 934px;
+  height: 141px;
+}
+.primaryButton {
+  position: absolute;
+  top: 46px;
+  left: 699px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--color-black);
+}
+.sattvaCanSolve {
+  position: absolute;
+  top: 29px;
+  left: 32px;
+  font-size: var(--font-size-13xl);
+}
+.exploreHowSattva,
+.rectangleParent {
+  position: absolute;
+  top: 77px;
+  left: 32px;
+}
+.rectangleParent {
+  top: 0;
+  left: 272px;
+  width: 934px;
+  height: 141px;
+  text-align: left;
+  color: var(--color-white);
+}
+.logoFull1 {
+  position: absolute;
+  top: 193.26px;
+  left: 94px;
+  width: 229px;
+  height: 77px;
+  object-fit: cover;
+}
+.footerParent,
+.projectRowParent {
+  position: absolute;
+  left: 0;
+  width: 1500px;
+}
+.footerParent {
+  top: 534px;
+  height: 499px;
+  text-align: right;
+  color: var(--b);
+}
+.projectRowParent {
+  top: 1114px;
+  height: 1033px;
+  color: var(--color-white);
+}
+.logoTrans1 {
+  position: absolute;
+  top: 10px;
+  left: 103px;
+  width: 124px;
+  height: 67px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.caseStudy2Solution {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 2147px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--secondary-text);
+  font-family: var(--paragraph);
+}

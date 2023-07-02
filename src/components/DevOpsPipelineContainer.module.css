@@ -1,0 +1,102 @@
+.easilyManagesYour,
+.jenkins {
+  position: absolute;
+  display: inline-block;
+}
+.easilyManagesYour {
+  top: 110px;
+  right: 0;
+  line-height: 150%;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.jenkins {
+  top: 66px;
+  right: 0.18px;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  width: 279px;
+  height: 24px;
+}
+.image2Icon,
+.item {
+  position: absolute;
+  top: 0;
+}
+.image2Icon {
+  left: 0;
+  width: 40px;
+  height: 56.22px;
+  object-fit: cover;
+}
+.item {
+  right: 0;
+  width: 279.18px;
+  height: 176.67px;
+}
+.bringsAllYour,
+.slack {
+  position: absolute;
+  display: inline-block;
+}
+.bringsAllYour {
+  top: 44px;
+  right: 1.31px;
+  line-height: 150%;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.slack {
+  top: 0;
+  right: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  width: 280px;
+  height: 24px;
+}
+.browserstack,
+.item1 {
+  position: absolute;
+  top: 66px;
+  right: 420.18px;
+  width: 280.33px;
+  height: 110.67px;
+}
+.browserstack {
+  right: 0.02px;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  display: inline-block;
+  width: 279px;
+  height: 24px;
+}
+.image4Icon {
+  object-fit: cover;
+}
+.icon,
+.image4Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+}
+.item2,
+.itemParent {
+  position: absolute;
+  top: 0;
+  right: 842.16px;
+  width: 279.02px;
+  height: 176.67px;
+}
+.itemParent {
+  top: 2818px;
+  right: 189.82px;
+  width: 1121.18px;
+  text-align: left;
+  font-size: var(--paragraph-large-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

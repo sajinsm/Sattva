@@ -1,0 +1,93 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 1500px;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 1106px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.byHarnessingThe {
+  position: absolute;
+  top: 132.36px;
+  right: 41px;
+  line-height: 160%;
+  display: inline-block;
+  width: 608px;
+}
+.fromAccessibilityTo,
+.text {
+  position: absolute;
+  width: 649px;
+}
+.fromAccessibilityTo {
+  top: 0;
+  right: 0;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  display: inline-block;
+}
+.text {
+  top: 147px;
+  right: 645px;
+  height: 184.36px;
+}
+.arrowIcon {
+  position: absolute;
+  top: 712.64px;
+  left: 744px;
+  border-radius: var(--br-xl);
+  width: 28px;
+  height: 14.73px;
+}
+.ourPlatform {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.49%;
+  width: 152.63%;
+  top: -7.17%;
+  right: -168.42%;
+  bottom: 101.69%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle {
+  position: absolute;
+  top: 115.36px;
+  left: 110px;
+  width: 19px;
+  height: 237px;  
+  transform-origin: 0 0;
+}
+.whatWeDo {
+  position: absolute;
+  top: 1618px;
+  left: 0;
+  width: 1500px;
+  height: 1106px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

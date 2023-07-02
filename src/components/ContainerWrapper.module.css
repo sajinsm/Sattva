@@ -1,0 +1,249 @@
+.bg,
+.loremIpsumDolor {
+  position: absolute;
+  right: 0;
+}
+.bg {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-tomato);
+  width: 1280px;
+  height: 675px;
+}
+.loremIpsumDolor {
+  top: 74px;
+  line-height: 160%;
+  display: inline-block;
+  width: 519px;
+}
+.meetOurTeam {
+  position: absolute;
+  top: 0;
+  right: 101.5px;
+  font-size: var(--h2-size);
+  line-height: 120%;
+}
+.socialRowIcon,
+.text {
+  position: absolute;
+  top: 0;
+  right: 304.5px;
+  width: 519px;
+  height: 126px;
+}
+.socialRowIcon {
+  top: 66.51px;
+  right: 53.8px;
+  width: 88.2px;
+  height: 17.64px;
+}
+.cofounderCeo,
+.leonardJohnDavies {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 43.5px);
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  height: 16px;
+}
+.leonardJohnDavies {
+  top: 0;
+  left: calc(50% - 97.5px);
+  font-size: var(--font-size-xl);
+  text-align: center;
+  width: 195px;
+  height: 29px;
+}
+.imageIcon,
+.info {
+  position: absolute;
+  top: 296px;
+  right: 33.08px;
+  width: 195px;
+  height: 84.16px;
+}
+.imageIcon {
+  top: 0;
+  right: 0;
+  border-radius: var(--br-9xs);
+  width: 261.08px;
+  height: 282.25px;
+  object-fit: cover;
+}
+.socialRowIcon1,
+.teamMember {
+  position: absolute;
+  top: 0;
+  right: 867.92px;
+  width: 261.08px;
+  height: 380.16px;
+}
+.socialRowIcon1 {
+  top: 66.51px;
+  right: 25.8px;
+  width: 88.2px;
+  height: 17.64px;
+}
+.cofounderCoo,
+.francisWeber {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 44.5px);
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  width: 89px;
+  height: 16px;
+}
+.francisWeber {
+  top: 0;
+  left: calc(50% - 69.5px);
+  font-size: var(--font-size-xl);
+  text-align: center;
+  width: 139px;
+  height: 29px;
+}
+.info1,
+.socialRowIcon2,
+.teamMember1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 139px;
+  height: 84.16px;
+}
+.socialRowIcon2,
+.teamMember1 {
+  top: 296px;
+  right: 627px;
+}
+.socialRowIcon2 {
+  top: 66.51px;
+  right: 7.8px;
+  width: 88.2px;
+  height: 17.64px;
+}
+.kylaObrien,
+.vpOfEngineering {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 49.5px);
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  width: 100px;
+  height: 16px;
+}
+.kylaObrien {
+  top: 0;
+  left: calc(50% - 51.5px);
+  font-size: var(--font-size-xl);
+  text-align: center;
+  width: 103px;
+  height: 29px;
+}
+.socialRowParent {
+  position: absolute;
+  top: 296px;
+  right: 78.69px;
+  width: 103px;
+  height: 84.16px;
+}
+.imageIcon2,
+.info2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 261.08px;
+  height: 380.16px;
+}
+.imageIcon2 {
+  right: 289.31px;
+  border-radius: var(--br-9xs);
+  height: 282.25px;
+  object-fit: cover;
+}
+.socialRowIcon3,
+.teamMember2 {
+  position: absolute;
+  top: 0;
+  right: 289.31px;
+  width: 550.39px;
+  height: 380.16px;
+}
+.socialRowIcon3 {
+  top: 66.51px;
+  right: 14.8px;
+  width: 88.2px;
+  height: 17.64px;
+}
+.softwareEngineer {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 50px);
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  width: 101px;
+  height: 16px;
+}
+.adrianDixon,
+.info3 {
+  position: absolute;
+  width: 118px;
+}
+.adrianDixon {
+  top: 0;
+  left: calc(50% - 59px);
+  font-size: var(--font-size-xl);
+  line-height: 160%;
+  font-weight: 500;
+  display: inline-block;
+  height: 29px;
+}
+.info3 {
+  top: 296px;
+  right: 72px;
+  height: 84.16px;
+}
+.teamMember3,
+.teamMembers {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 261.08px;
+  height: 380.16px;
+  text-align: center;
+}
+.teamMembers {
+  top: 172px;
+  width: 1129px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.bgParent,
+.ourTeamSection,
+.ourTeamSectionWrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1129px;
+  height: 552.16px;
+}
+.bgParent,
+.ourTeamSectionWrapper {
+  top: 58px;
+  right: 76px;
+}
+.bgParent {
+  top: 937px;
+  right: 102px;
+  width: 1280px;
+  height: 675px;
+  text-align: center;
+  font-size: var(--paragraph-size);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

@@ -1,0 +1,87 @@
+.bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 435px;
+}
+.aLeadingCrm {
+  position: absolute;
+  top: 354px;
+  right: 146px;
+  line-height: 160%;
+  color: var(--secondary-text);
+  display: inline-block;
+  width: 1147px;
+}
+.aboutTheClient,
+.buildingAComprehensive {
+  position: absolute;
+  top: 305px;
+  right: 1112px;
+  font-size: var(--heading-label-size);
+  line-height: 120%;
+}
+.buildingAComprehensive {
+  top: 127px;
+  right: 85px;
+  font-size: var(--h1-size);
+  display: inline-block;
+  width: 1208px;
+}
+.caseStudy {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 6.22%;
+  width: 152.63%;
+  top: -8.13%;
+  right: -168.42%;
+  bottom: 101.91%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle,
+.sectionTitle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 19px;
+  height: 209px;
+  transform-origin: 0 0;
+}
+.sectionTitle {
+  top: 95px;
+  left: 111px;
+}
+.postBody {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1500px;
+  height: 435px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

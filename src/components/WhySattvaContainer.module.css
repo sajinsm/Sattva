@@ -1,0 +1,206 @@
+.whySattva {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.83%;
+  width: 152.63%;
+  top: -7.62%;
+  right: -168.42%;
+  bottom: 101.79%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle,
+.sectionTitle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 19px;
+  height: 223px;
+  
+  transform-origin: 0 0;
+}
+.sectionTitle {
+  top: 19px;
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 397.5px);
+  left: calc(50% - 485px);
+  width: 985px;
+  height: 688px;
+  opacity: 0.1;
+}
+.flexibilityAndScalability {
+  position: absolute;
+  top: 0;
+  right: 100px;
+  line-height: 160%;
+  display: inline-block;
+  width: 181px;
+}
+.ourTeamSectionWrapper,
+.youHaveThe {
+  position: absolute;
+  right: 0;
+  width: 281px;
+}
+.youHaveThe {
+  top: 32px;
+  line-height: 160%;
+  display: inline-block;
+}
+.ourTeamSectionWrapper {
+  top: 0;
+  height: 162px;
+}
+.subtractIcon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.groupDiv {
+  position: absolute;
+  top: 0;
+  right: 155px;
+  width: 345px;
+  height: 162px;
+}
+.enhancedSoftwareQuality {
+  position: absolute;
+  top: 0;
+  right: 85px;
+  line-height: 160%;
+  display: inline-block;
+  width: 196px;
+}
+.groupParent1,
+.ourTeamSection1,
+.ourTeamSectionContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 281px;
+  height: 136px;
+}
+.groupParent1,
+.ourTeamSectionContainer {
+  top: 13px;
+  right: 32px;
+}
+.groupParent1 {
+  top: 535px;
+  right: 929px;
+  width: 313px;
+  height: 149px;
+}
+.streamlinedTestingProcesses {
+  position: absolute;
+  top: 0;
+  right: 57px;
+  line-height: 160%;
+  display: inline-block;
+  width: 224px;
+}
+.groupParent2,
+.ourTeamSectionFrame {
+  position: absolute;
+  top: 0;
+  right: 32px;
+  width: 281px;
+  height: 162px;
+}
+.groupParent2 {
+  top: 271px;
+  right: 1019px;
+  width: 313px;
+}
+.subtractIcon3 {
+  position: relative;
+  width: 32.44px;
+  height: 32px;
+}
+.comprehensiveTestingSolution {
+  position: absolute;
+  top: 0;
+  right: 42.87px;
+  line-height: 160%;
+  display: inline-block;
+  width: 238.24px;
+}
+.ourTeamSection3,
+.ourTeamSectionWrapper1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 281.12px;
+  height: 162px;
+}
+.ourTeamSectionWrapper1 {
+  right: 46.33px;
+}
+.subtractParent {
+  position: absolute;
+  top: 0;
+  left: 135px;
+  width: 327.44px;
+  height: 162px;
+}
+.groupContainer,
+.vectorParent {
+  position: absolute;
+  width: 1332px;
+  height: 723px;
+}
+.groupContainer {
+  top: 0;
+  right: 0;
+}
+.vectorParent {
+  top: calc(50% - 361.5px);
+  left: calc(50% - 666px);
+}
+.illustrationIcon {
+  position: absolute;
+  top: -39px;
+  left: 298px;
+  width: 708px;
+  height: 708px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 308.5px);
+  left: calc(50% - 666px);
+  width: 1332px;
+  height: 723px;
+}
+.sectionTitleParent {
+  position: absolute;
+  top: 623px;
+  left: 110px;
+  width: 1332px;
+  height: 829px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

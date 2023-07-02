@@ -1,0 +1,75 @@
+.bgImageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 715px;
+  object-fit: cover;
+}
+.empoweringInclusiveDigital {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 120%;
+  display: inline-block;
+  width: 611px;
+  height: 224px;
+}
+.secondaryButtonText {
+  position: relative;
+  font-weight: 500;
+}
+.secondaryButton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+}
+.buttonRow {
+  position: absolute;
+  top: 270.93px;
+  left: 1px;
+  width: 146px;
+  height: 51px;
+  cursor: pointer;
+  text-align: right;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+}
+.headerText {
+  position: absolute;
+  top: 125px;
+  left: 110px;
+  width: 611px;
+  height: 321.93px;
+}
+.header,
+.headerChild {
+  position: absolute;
+  top: 547px;
+  left: 707px;
+  width: 85px;
+  height: 10px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 715px;
+}
+.headerParent {
+  position: relative;
+  width: 100%;
+  height: 715px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

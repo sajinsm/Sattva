@@ -1,0 +1,60 @@
+.sattvaIsMaking {
+  position: absolute;
+  top: 51px;
+  right: 558.59px;
+  line-height: 120%;
+  display: inline-block;
+  width: 646px;
+}
+.successStories {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 4.94%;
+  width: 152.63%;
+  top: -6.46%;
+  right: -168.42%;
+  bottom: 101.52%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 19px;
+  height: 263px;
+  
+  transform-origin: 0 0;
+  font-size: var(--paragraph-size);
+}
+.projects {
+  position: absolute;
+  top: 2862px;
+  right: 92.41px;
+  width: 1300.59px;
+  height: 1061.38px;
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

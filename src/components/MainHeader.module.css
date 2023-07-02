@@ -1,0 +1,107 @@
+.govright15Jan20232043281 {
+  position: relative;
+  width: 141px;
+  height: 53px;
+  object-fit: cover;
+}
+.govright15Jan20232043281Wrapper {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 26.5px);
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.bxsearchIcon,
+.navbarInner {
+  position: absolute;
+  display: none;
+}
+.navbarInner {
+  width: 9.4%;
+  top: calc(50% - 26.5px);
+  right: 83.03%;
+  left: 7.57%;
+  height: 53px;
+}
+.bxsearchIcon {
+  height: 26.97%;
+  width: 1.63%;
+  top: 36.52%;
+  right: 5.28%;
+  bottom: 36.52%;
+  left: 93.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.platform,
+.text {
+  position: relative;
+  font-weight: 500;
+}
+.text {
+  color: var(--secondary-text);
+  display: none;
+}
+.platform {
+  cursor: pointer;
+}
+.navLink {
+  position: absolute;
+  height: 58.62%;
+  width: 31.4%;
+  top: 20.69%;
+  right: 18.07%;
+  bottom: 20.69%;
+  left: 50.53%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 750px);
+  background-color: var(--black);
+  backdrop-filter: blur(30px);
+  width: 1500px;
+  height: 87px;
+}
+.startFreeTrial {
+  position: relative;
+  font-weight: 500;
+}
+.navbarButton {
+  position: absolute;
+  top: 22px;
+  left: 1276px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+  color: var(--b);
+}
+.navbarParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 750px);
+  width: 1500px;
+  height: 87px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

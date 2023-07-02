@@ -1,0 +1,106 @@
+.primaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: right;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 389px;
+  left: 289px;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.firstName {
+  top: 0;
+  left: 0;
+  line-height: 160%;
+  opacity: 0.6;
+}
+.firstName,
+.john,
+.line {
+  position: absolute;
+}
+.john {
+  top: 27px;
+  left: 0;
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+}
+.line {
+  top: 56.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 369px;
+  height: 1px;
+}
+.formField,
+.formField1,
+.formField2,
+.formField3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 368px;
+  height: 57px;
+}
+.formField1,
+.formField2,
+.formField3 {
+  left: 400px;
+}
+.formField2,
+.formField3 {
+  top: 89px;
+  left: 0;
+}
+.formField3 {
+  left: 400px;
+}
+.typeYourMessege {
+  position: absolute;
+  top: 43px;
+  left: 20px;
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+  opacity: 0.3;
+}
+.textArea {
+  position: absolute;
+  top: 22.5px;
+  left: -0.5px;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 769px;
+  height: 157px;
+}
+.form,
+.formField4 {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 768px;
+  height: 179px;
+}
+.form {
+  top: 2335px;
+  left: 366px;
+  height: 440px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

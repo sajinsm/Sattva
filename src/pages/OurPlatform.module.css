@@ -1,0 +1,227 @@
+.sattvaInfinity21 {
+  position: absolute;
+  top: 347.59px;
+  left: 735px;
+  width: 311px;
+  height: 311px;
+  transform: rotate(-19.85deg);
+  transform-origin: 0 0;
+}
+.bg,
+.bg1 {
+  position: absolute;
+  top: 603px;
+  right: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 570px;
+}
+.bg1 {
+  top: 1756px;
+}
+.sattvaUnderstandsThat {
+  position: absolute;
+  top: 201px;
+  right: 76px;
+  line-height: 150%;
+  display: inline-block;
+  width: 640px;
+  opacity: 0.87;
+}
+.primaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: right;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 342px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.ensuringComplianceWith {
+  margin: 0;
+}
+.ensuringComplianceWithContainer {
+  position: absolute;
+  top: 53px;
+  right: 0;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  display: inline-block;
+  width: 716px;
+}
+.content,
+.security {
+  position: absolute;
+  top: 0;
+}
+.security {
+  right: 626px;
+  font-size: var(--heading-label-size);
+  line-height: 120%;
+  color: var(--color-tomato);
+}
+.content {
+  right: 112px;
+  width: 716px;
+  height: 393px;
+}
+.websiteMaintenance1Icon {
+  position: absolute;
+  top: 577px;
+  left: 55px;
+  width: 773px;
+  height: 435px;
+  overflow: hidden;
+}
+.contentParent {
+  position: absolute;
+  top: 1263px;
+  right: 15px;
+  width: 828px;
+  height: 1012px;
+}
+.sattvaEquipsYou {
+  position: absolute;
+  top: 201px;
+  right: 38px;
+  line-height: 150%;
+  display: inline-block;
+  width: 640px;
+  opacity: 0.87;
+}
+.providingInsightsFor {
+  position: absolute;
+  top: 53px;
+  right: 0;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  display: inline-block;
+  width: 678px;
+}
+.performance {
+  position: absolute;
+  top: 0;
+  right: 537px;
+  font-size: var(--heading-label-size);
+  line-height: 120%;
+  color: var(--color-tomato);
+}
+.content1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 678px;
+  height: 393px;
+}
+.processing1Icon {
+  position: absolute;
+  top: 383px;
+  left: 139px;
+  width: 871px;
+  height: 871px;
+  overflow: hidden;
+}
+.contentGroup {
+  position: absolute;
+  top: 1853px;
+  right: 707px;
+  width: 932px;
+  height: 1254px;
+}
+.sattvaEmpowersYou {
+  position: absolute;
+  top: 201px;
+  right: 88px;
+  line-height: 150%;
+  display: inline-block;
+  width: 640px;
+  opacity: 0.87;
+}
+.primaryButton2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 318px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.automatingSolutionsFor {
+  position: absolute;
+  top: 53px;
+  right: 0;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  display: inline-block;
+  width: 728px;
+}
+.functionalTesting {
+  position: absolute;
+  top: 0;
+  right: 528px;
+  font-size: var(--heading-label-size);
+  line-height: 120%;
+  color: var(--color-tomato);
+}
+.content2 {
+  position: absolute;
+  top: 1276px;
+  right: 0;
+  width: 728px;
+  height: 369px;
+}
+.websiteDevelopment1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 456px;
+  height: 456px;
+  overflow: hidden;
+}
+.contentContainer {
+  position: absolute;
+  top: 1204px;
+  right: 115px;
+  width: 1317px;
+  height: 1645px;
+}
+.logoTrans1 {
+  position: absolute;
+  top: 10px;
+  left: 103px;
+  width: 124px;
+  height: 67px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ourPlatform {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 3494px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

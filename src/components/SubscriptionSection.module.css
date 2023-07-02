@@ -1,0 +1,11 @@
+.groupWrapper {
+  position: absolute;
+  top: 520px;
+  left: 0;
+  width: 1500px;
+  height: 499px;
+  text-align: right;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

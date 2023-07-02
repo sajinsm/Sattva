@@ -1,0 +1,161 @@
+.frameChild {
+  position: absolute;
+  height: 67.21%;
+  width: 90.12%;
+  top: 4.29%;
+  right: 0;
+  bottom: 28.5%;
+  left: 9.88%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+}
+.mobileTesting1 {
+  position: absolute;
+  top: 16.02%;
+  left: 45.32%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  height: 76.29%;
+  width: 38.3%;
+  top: 0;
+  right: 61.7%;
+  bottom: 23.71%;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+  box-shadow: 10px 4px 30px rgba(0, 0, 0, 0.25);
+}
+.frameInner {
+  height: 10.84%;
+  width: 40.21%;
+  top: 30.26%;
+  right: 57.63%;
+  bottom: 58.89%;
+  left: 2.17%;
+  background-color: var(--color-tomato);
+}
+.functionalTesting,
+.loadTesting {
+  position: absolute;
+  left: 6.76%;
+  font-weight: 500;
+}
+.functionalTesting {
+  top: 13.87%;
+  cursor: pointer;
+}
+.loadTesting {
+  top: 24.09%;
+}
+.accessibility,
+.mobileTesting2,
+.performance,
+.security {
+  position: absolute;
+  top: 34.17%;
+  left: 6.76%;
+  font-weight: 500;
+}
+.accessibility,
+.performance,
+.security {
+  top: 44.39%;
+}
+.performance,
+.security {
+  top: 54.6%;
+}
+.security {
+  top: 64.82%;
+}
+.cybersecurityServices,
+.helpDeskServices {
+  position: absolute;
+  top: 75.03%;
+  left: 6.76%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  display: none;
+}
+.cybersecurityServices {
+  top: 85.25%;
+}
+.learnMore,
+.sattvaEnsuresThat {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.sattvaEnsuresThat {
+  line-height: 160%;
+}
+.learnMore {
+  font-weight: 500;
+  cursor: pointer;
+}
+.arrowIcon {
+  position: absolute;
+  top: 3.64px;
+  left: 100px;
+  border-radius: var(--br-xl);
+  width: 28px;
+  height: 14.73px;
+}
+.learnMoreParent {
+  position: absolute;
+  height: 7.81%;
+  width: 85.59%;
+  top: 92.19%;
+  right: 14.41%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--paragraph-large-size);
+}
+.sattvaEnsuresThatYourAppliParent {
+  position: absolute;
+  height: 33.92%;
+  width: 40.29%;
+  top: 26.86%;
+  right: 14.38%;
+  bottom: 39.22%;
+  left: 45.32%;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+}
+.lineDiv {
+  position: absolute;
+  height: 0.25%;
+  width: 5.03%;
+  top: 22.7%;
+  right: 49.74%;
+  bottom: 77.05%;
+  left: 45.23%;
+  border-top: 2px solid var(--color-tomato);
+  box-sizing: border-box;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 10px 4px 20px rgba(0, 0, 0, 0.25);
+  width: 1154px;
+  height: 793px;
+}
+.mobileTesting {
+  position: relative;
+  width: 1154px;
+  height: 793px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--heading-label-size);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

@@ -1,0 +1,75 @@
+.withSattvaYou {
+  position: absolute;
+  top: 201px;
+  right: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 640px;
+  opacity: 0.87;
+}
+.empoweringUniversalDesign {
+  position: absolute;
+  top: 53px;
+  right: 64px;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  display: inline-block;
+  width: 576px;
+}
+.accessibility {
+  position: absolute;
+  top: 0;
+  right: 502px;
+  font-size: var(--heading-label-size);
+  line-height: 120%;
+  color: var(--color-tomato);
+}
+.primaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: right;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 318px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.content {
+  position: absolute;
+  top: 0;
+  right: 663px;
+  width: 640px;
+  height: 369px;
+}
+.testing1Icon {
+  position: absolute;
+  top: 16px;
+  left: 661px;
+  width: 642px;
+  height: 361px;
+  overflow: hidden;
+}
+.contentParent {
+  position: absolute;
+  top: 699px;
+  right: 87px;
+  width: 1303px;
+  height: 377px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

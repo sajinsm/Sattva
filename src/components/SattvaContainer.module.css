@@ -1,0 +1,53 @@
+.sattvaSuhtVuh {
+  margin: 0;
+}
+.purityVirtueGoodness,
+.sattvaSuhtVuhContainer {
+  position: absolute;
+  top: 20.31px;
+  display: inline-block;
+}
+.sattvaSuhtVuhContainer {
+  left: 0;
+  font-weight: 500;
+  width: 216px;
+  height: 40.86px;
+}
+.purityVirtueGoodness {
+  left: 1090px;
+  width: 179px;
+  height: 20.43px;
+}
+.line {
+  position: absolute;
+  top: 31.49px;
+  left: 235.5px;
+  backdrop-filter: blur(30px);
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 837px;
+  height: 1px;
+}
+.groupIcon {
+  position: absolute;
+  height: 100%;
+  width: 11.43%;
+  top: 0;
+  right: 44.29%;
+  bottom: 0;
+  left: 44.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.statistics {
+  position: absolute;
+  top: 612px;
+  left: 115px;
+  width: 1269px;
+  height: 64.14px;
+  text-align: right;
+  font-size: var(--paragraph-large-size);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

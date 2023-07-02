@@ -1,0 +1,125 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 754px;
+}
+.drivingEfficiencyMaximizing {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 120%;
+  display: inline-block;
+  width: 612px;
+  height: 156px;
+}
+.atSattvaWe {
+  margin: 0;
+}
+.atSattvaWeContainer {
+  position: absolute;
+  top: 174px;
+  right: 40px;
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+  display: inline-block;
+  width: 572px;
+  opacity: 0.7;
+}
+.primaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: right;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 430px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  position: absolute;
+  top: 170px;
+  right: 682px;
+  width: 612px;
+  height: 481px;
+}
+.ourMission {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.96%;
+  width: 152.63%;
+  top: -7.8%;
+  right: -168.42%;
+  bottom: 101.83%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle,
+.sectionTitle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 19px;
+  height: 218px;
+  transform-origin: 0 0;
+}
+.sectionTitle {
+  top: 130px;
+  left: 110px;
+  font-size: var(--paragraph-size);
+}
+.imageIcon {
+  position: absolute;
+  top: 111px;
+  right: 47px;
+  border-radius: var(--br-9xs);
+  width: 586px;
+  height: 544px;
+  object-fit: cover;
+}
+.header {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 1500px;
+  height: 754px;
+  text-align: left;
+  font-size: var(--h1-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

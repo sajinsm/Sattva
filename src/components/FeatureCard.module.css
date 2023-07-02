@@ -1,0 +1,331 @@
+.bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 849px;
+}
+.ourFeatures {
+  position: absolute;
+  top: -19px;
+  left: 96px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.63%;
+  width: 152.63%;
+  top: -7.36%;
+  right: -168.42%;
+  bottom: 101.73%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 19px;
+  height: 231px;
+  
+  transform-origin: 0 0;
+}
+.projects {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 231px;
+  height: 19px;
+}
+.configureOnce,
+.configureOnceAnd {
+  position: absolute;
+  display: inline-block;
+  width: 279px;
+}
+.configureOnceAnd {
+  top: 108px;
+  right: 0.49px;
+  line-height: 150%;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.configureOnce {
+  top: 64px;
+  right: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  height: 24px;
+}
+.eosConfigMapFilledIcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 139.26px);
+  border-radius: var(--br-9xs);
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.item {
+  position: absolute;
+  top: 0;
+  right: 333px;
+  width: 279.49px;
+  height: 174.67px;
+}
+.endToEnd,
+.validateTheFlow {
+  position: absolute;
+  right: 0;
+  display: inline-block;
+}
+.validateTheFlow {
+  top: 105px;
+  line-height: 150%;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.endToEnd {
+  top: 61px;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  width: 279px;
+  height: 24px;
+}
+.icon,
+.item1 {
+  position: absolute;
+  top: 0;
+}
+.icon {
+  left: calc(50% - 139.49px);
+  width: 50px;
+  height: 50px;
+}
+.item1 {
+  right: 0;
+  width: 279.02px;
+  height: 171.67px;
+}
+.reuseYourExisting {
+  position: absolute;
+  top: 108px;
+  right: 1px;
+  line-height: 150%;
+  display: inline-block;
+  width: 279px;
+  height: 84px;
+  opacity: 0.87;
+}
+.icon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 140px);
+  width: 50px;
+  height: 50px;
+}
+.item2 {
+  top: 0;
+  right: 667px;
+  width: 280px;
+  height: 192px;
+}
+.icon2,
+.item2,
+.useDrag {
+  position: absolute;
+}
+.useDrag {
+  top: 108px;
+  right: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 279px;
+  height: 74px;
+  opacity: 0.87;
+}
+.icon2 {
+  top: 0;
+  left: calc(50% - 140.5px);
+  width: 50px;
+  height: 50px;
+}
+.item3,
+.itemParent {
+  position: absolute;
+  top: 0;
+  right: 1001px;
+  width: 281px;
+  height: 182px;
+}
+.itemParent {
+  right: 0;
+  width: 1282px;
+  height: 192px;
+}
+.loadTesting,
+.utilizeTheBuiltIn {
+  position: absolute;
+  display: inline-block;
+}
+.utilizeTheBuiltIn {
+  top: 106px;
+  right: 0.47px;
+  line-height: 150%;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.loadTesting {
+  top: 62px;
+  right: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  width: 279px;
+  height: 24px;
+}
+.vectorIcon1 {
+  position: relative;
+  width: 37.44px;
+  height: 48.97px;
+}
+.item4 {
+  position: absolute;
+  top: 0;
+  right: 333px;
+  width: 279.49px;
+  height: 172.67px;
+}
+.integrateYourApplication,
+.serverPlugIn {
+  position: absolute;
+  right: 0;
+  display: inline-block;
+}
+.integrateYourApplication {
+  top: 106px;
+  line-height: 150%;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.serverPlugIn {
+  top: 60px;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  width: 279px;
+  height: 26px;
+}
+.icon3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 142.5px);
+  width: 50px;
+  height: 50px;
+}
+.gainAccessTo,
+.item5 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 285px;
+  height: 172.67px;
+}
+.gainAccessTo {
+  top: 106px;
+  right: 0.63px;
+  line-height: 150%;
+  display: inline-block;
+  width: 279.02px;
+  height: 66.67px;
+  opacity: 0.87;
+}
+.icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50.44px;
+  height: 53.61px;
+}
+.item6,
+.sattvaRecorder {
+  position: absolute;
+  top: 0;
+  right: 667px;
+  width: 284px;
+  height: 172.67px;
+}
+.sattvaRecorder {
+  top: 62px;
+  right: 0.02px;
+  font-size: var(--font-size-7xl);
+  line-height: 120%;
+  display: inline-block;
+  width: 279px;
+  height: 24px;
+}
+.icon5,
+.item7 {
+  position: absolute;
+  top: 0;
+}
+.icon5 {
+  left: calc(50% - 141.01px);
+  width: 50px;
+  height: 50px;
+}
+.item7 {
+  right: 1000.98px;
+  width: 282.02px;
+  height: 172.67px;
+}
+.itemGroup {
+  top: 301px;
+  right: 0;
+  height: 172.67px;
+}
+.groupParent,
+.itemGroup,
+.projectsParent {
+  position: absolute;
+  width: 1283px;
+}
+.groupParent {
+  top: 108px;
+  right: 0;
+  height: 473.67px;
+  font-size: var(--paragraph-large-size);
+}
+.projectsParent {
+  top: 96px;
+  left: 107px;
+  height: 581.67px;
+}
+.bgParent {
+  position: absolute;
+  top: 1587px;
+  right: 0;
+  width: 1500px;
+  height: 849px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

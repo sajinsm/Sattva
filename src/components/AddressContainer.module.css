@@ -1,0 +1,188 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1500px;
+  height: 530px;
+}
+.socialRowIcon {
+  position: absolute;
+  top: 248px;
+  right: 224.55px;
+  width: 100px;
+  height: 20px;
+  opacity: 0.8;
+}
+.exampleRoad {
+  margin: 0;
+}
+.address1,
+.exampleRoadCityContainer {
+  position: absolute;
+  left: 0;
+  line-height: 160%;
+}
+.exampleRoadCityContainer {
+  top: 40px;
+  display: inline-block;
+  width: 302px;
+}
+.address1 {
+  top: 0;
+  font-size: var(--font-size-xl);
+  color: var(--b);
+}
+.address {
+  top: 124px;
+  left: 0.45px;
+  width: 302px;
+  height: 92px;
+}
+.address,
+.letsTalk,
+.line {
+  position: absolute;
+}
+.line {
+  top: 91px;
+  left: -1px;
+  border-top: 2px solid var(--color-tomato);
+  box-sizing: border-box;
+  width: 327px;
+  height: 2px;
+}
+.letsTalk {
+  top: 0;
+  left: 0;
+  font-size: var(--heading-label-size);
+  line-height: 160%;
+}
+.div,
+.hellosattvacom {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  line-height: 28px;
+}
+.hellosattvacom {
+  left: 164px;
+}
+.contactDetails,
+.info {
+  position: absolute;
+  top: 0;
+}
+.info {
+  left: 0.45px;
+  width: 293px;
+  height: 76px;
+  color: var(--b);
+}
+.contactDetails {
+  right: 0;
+  width: 325px;
+  height: 268px;
+  color: var(--secondary-text);
+}
+.bg1 {
+  position: absolute;
+  top: 5px;
+  left: 312px;
+  background-color: var(--color-tomato);
+  width: 116px;
+  height: 65px;
+}
+.help {
+  color: var(--color-white);
+}
+.howCanWeContainer,
+.justAnswerA {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 120%;
+  display: inline-block;
+  width: 480.45px;
+}
+.justAnswerA {
+  top: 150px;
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+  opacity: 0.7;
+}
+.getInTouch,
+.text {
+  position: absolute;
+  left: 96px;
+}
+.text {
+  top: 51px;
+  width: 480.45px;
+  height: 202px;
+  font-size: var(--h1-size);
+}
+.getInTouch {
+  top: -19px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 5.78%;
+  width: 152.63%;
+  top: -7.56%;
+  right: -168.42%;
+  bottom: 101.78%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle,
+.sectionTitle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 19px;
+  height: 225px;  
+  transform-origin: 0 0;
+}
+.sectionTitle {
+  top: 19px;
+}
+.contactDetailsParent,
+.headerInner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 997px;
+  height: 268px;
+}
+.headerInner {
+  top: 131px;
+  right: 393px;
+}
+.header {
+  position: absolute;
+  top: 1708px;
+  left: 0;
+  width: 1500px;
+  height: 530px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--b);
+  font-family: var(--paragraph);
+}

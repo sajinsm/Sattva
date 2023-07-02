@@ -1,0 +1,115 @@
+.videoIcon {
+  position: absolute;
+  top: 0;
+  left: 774px;
+  width: 557px;
+  height: 604px;
+}
+.primaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--color-white);
+  text-align: right;
+}
+.primaryButton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-13xl);
+  background-color: var(--color-tomato);
+  position: absolute;
+  top: 404px;
+  left: 1px;
+  border-radius: var(--br-9xs);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.weAreCommitted {
+  margin: 0;
+}
+.weAreCommittedContainer,
+.yourTrustedPartner {
+  position: absolute;
+  top: 148px;
+  right: 22px;
+  line-height: 160%;
+  display: inline-block;
+  width: 608px;
+}
+.yourTrustedPartner {
+  top: 0;
+  right: 0;
+  font-size: var(--h2-size);
+  line-height: 120%;
+  color: var(--b);
+  width: 629px;
+}
+.aboutUs,
+.text {
+  position: absolute;
+  left: 96px;
+}
+.text {
+  top: 110px;
+  width: 630px;
+  height: 455px;
+}
+.aboutUs {
+  top: -19px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.lineIcon,
+.lineIcon1,
+.vectorIcon {
+  position: absolute;
+  top: -10.5px;
+  left: 0;
+  width: 16px;
+  height: 2px;
+}
+.lineIcon1,
+.vectorIcon {
+  left: 56px;
+}
+.vectorIcon {
+  height: 6.95%;
+  width: 152.63%;
+  top: -9.09%;
+  right: -168.42%;
+  bottom: 102.14%;
+  left: 115.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionTitle {
+  position: absolute;
+  top: 78px;
+  left: 0;
+  width: 19px;
+  height: 187px;
+  
+  transform-origin: 0 0;
+  color: var(--b);
+}
+.aboutSection,
+.topRow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1331px;
+  height: 604px;
+}
+.aboutSection {
+  top: 908px;
+  left: 111px;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--secondary-text);
+  font-family: var(--paragraph);
+}

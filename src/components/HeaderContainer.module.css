@@ -1,0 +1,113 @@
+.bgImageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 715px;
+  object-fit: cover;
+}
+.sattvaSuhtVuh {
+  margin: 0;
+}
+.sattvaSuhtVuhContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 216px;
+  height: 40.86px;
+}
+.purityVirtueGoodness {
+  position: absolute;
+  top: 0;
+  left: 1090px;
+  display: inline-block;
+  width: 179px;
+  height: 20.43px;
+}
+.line {
+  position: absolute;
+  top: 11.17px;
+  left: 235.5px;
+  backdrop-filter: blur(30px);
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 837px;
+  height: 1px;
+}
+.statistics {
+  position: absolute;
+  top: 632.31px;
+  left: 115px;
+  width: 1269px;
+  height: 40.86px;
+}
+.transformingManualTesting {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 120%;
+  display: inline-block;
+  width: 731px;
+  height: 224px;
+}
+.secondaryButtonText {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph);
+  color: var(--b);
+  text-align: right;
+}
+.secondaryButton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+}
+.buttonRow {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 270.93px;
+  left: 1px;
+  width: 146px;
+  height: 51px;
+}
+.headerText {
+  position: absolute;
+  top: 125px;
+  left: 110px;
+  width: 731px;
+  height: 321.93px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+}
+.header,
+.headerChild {
+  position: absolute;
+  top: 547px;
+  left: 707px;
+  width: 85px;
+  height: 10px;
+}
+.header {
+  top: 87px;
+  left: 0;
+  width: 1500px;
+  height: 715px;
+  text-align: right;
+  font-size: var(--paragraph-large-size);
+  color: var(--color-white);
+  font-family: var(--paragraph);
+}

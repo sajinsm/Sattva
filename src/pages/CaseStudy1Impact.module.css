@@ -1,0 +1,359 @@
+.implementingTheSattva {
+  position: absolute;
+  top: 92.76px;
+  right: 0;
+  line-height: 160%;
+  display: inline-block;
+  width: 1146.69px;
+  height: 219.24px;
+}
+.line,
+.line1 {
+  position: absolute;
+  top: 58.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--border);
+  box-sizing: border-box;
+  width: 509px;
+  height: 1px;
+}
+.line1 {
+  top: 58px;
+  left: 351px;
+  border-top: 2px solid var(--color-tomato);
+  width: 158px;
+  height: 2px;
+}
+.theImpact {
+  position: relative;
+  line-height: 160%;
+  font-weight: 600;
+}
+.tab {
+  position: absolute;
+  top: 0;
+  left: 364.34px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--b);
+}
+.theSolution {
+  position: relative;
+  line-height: 160%;
+  font-weight: 500;
+}
+.tab1 {
+  left: 188.31px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.howToSection,
+.tab1,
+.tab2 {
+  position: absolute;
+  top: 0;
+}
+.tab2 {
+  left: 0.31px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.howToSection {
+  right: 0;
+  width: 1147px;
+  height: 312px;
+}
+.increaseInThe,
+.x {
+  display: inline-block;
+}
+.increaseInThe {
+  position: absolute;
+  top: 63px;
+  right: 0;
+  line-height: 150%;
+  width: 332.85px;
+  height: 60px;
+  opacity: 0.87;
+}
+.x {
+  top: 0;
+  right: 12.7px;
+  font-size: var(--font-size-27xl);
+  line-height: 120%;
+  font-weight: 900;
+  color: var(--color-tomato);
+  width: 320.59px;
+  height: 43px;
+}
+.divider,
+.item,
+.x {
+  position: absolute;
+}
+.item {
+  top: 19px;
+  right: 0;
+  width: 333.3px;
+  height: 123px;
+}
+.divider {
+  top: 0;
+  left: 774.82px;
+  background-color: var(--color-silver);
+  width: 1.97px;
+  height: 170px;
+}
+.reductionInTime {
+  top: 60px;
+  right: 0;
+  line-height: 150%;
+  display: inline-block;
+  width: 326.93px;
+  height: 60px;
+  opacity: 0.87;
+}
+.item1,
+.min,
+.reductionInTime {
+  position: absolute;
+}
+.min {
+  top: 0;
+  right: 4.22px;
+  font-size: var(--font-size-27xl);
+  line-height: 120%;
+  font-weight: 900;
+  color: var(--color-tomato);
+  display: inline-block;
+  width: 322.72px;
+  height: 40px;
+}
+.item1 {
+  top: 19px;
+  right: 409.09px;
+  width: 326.93px;
+  height: 120px;
+}
+.divider1 {
+  position: absolute;
+  top: 0;
+  left: 372.13px;
+  background-color: var(--color-silver);
+  width: 1.97px;
+  height: 170px;
+}
+.div,
+.reductionInTime1 {
+  position: absolute;
+  display: inline-block;
+}
+.reductionInTime1 {
+  top: 63px;
+  right: 0;
+  line-height: 150%;
+  width: 335.37px;
+  height: 74px;
+  opacity: 0.87;
+}
+.div {
+  top: 0;
+  right: 0.62px;
+  font-size: var(--font-size-27xl);
+  line-height: 120%;
+  font-weight: 900;
+  color: var(--color-tomato);
+  width: 334.75px;
+  height: 43px;
+}
+.item2,
+.itemParent {
+  position: absolute;
+  top: 19px;
+  right: 811.63px;
+  width: 335.37px;
+  height: 137px;
+}
+.itemParent {
+  top: 247px;
+  right: 0;
+  width: 1147px;
+  height: 170px;
+  font-size: var(--paragraph-large-size);
+  color: var(--b);
+}
+.howToSectionParent,
+.postBodyParent {
+  position: absolute;
+  top: 476px;
+  right: 146px;
+  width: 1147px;
+  height: 417px;
+}
+.postBodyParent {
+  top: 87px;
+  right: 1px;
+  width: 1500px;
+  height: 893px;
+}
+.maskGroupIcon,
+.tint {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 557.23px;
+  height: 421px;
+}
+.maskGroupIcon {
+  object-fit: cover;
+}
+.tint {
+  border-radius: var(--br-9xs);
+  background-color: var(--black);
+  opacity: 0.6;
+}
+.secondaryButtonText {
+  position: relative;
+  font-weight: 500;
+}
+.secondaryButton {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--b);
+}
+.highlightingAccessibilityImp {
+  top: 142px;
+  right: 0;
+  line-height: 160%;
+  display: inline-block;
+}
+.content,
+.creatingChangeWith,
+.highlightingAccessibilityImp {
+  position: absolute;
+  width: 427.07px;
+}
+.creatingChangeWith {
+  top: 0;
+  left: 0;
+  font-size: var(--h3-size);
+  line-height: 150%;
+  display: inline-block;
+}
+.content {
+  top: 62px;
+  left: 65.23px;
+  height: 295px;
+}
+.maskGroupIcon1,
+.project {
+  position: absolute;
+  top: 0;
+  height: 421px;
+}
+.project {
+  left: 589.77px;
+  width: 557.23px;
+  cursor: pointer;
+}
+.maskGroupIcon1 {
+  left: 0;
+  width: 555.87px;
+  object-fit: cover;
+}
+.secondaryButton1 {
+  position: absolute;
+  top: 244px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(80px);
+  width: 141.07px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--b);
+}
+.utilizingTheSattva {
+  position: absolute;
+  top: 142px;
+  right: 14.42px;
+  line-height: 160%;
+  display: inline-block;
+  width: 412.65px;
+}
+.content1 {
+  position: absolute;
+  top: 62px;
+  left: 65px;
+  width: 427.07px;
+  height: 295px;
+}
+.project1,
+.projectRow {
+  position: absolute;
+  top: 0;
+  height: 421px;
+}
+.project1 {
+  left: 0;
+  width: 557.23px;
+  cursor: pointer;
+}
+.projectRow {
+  left: 206px;
+  width: 1147px;
+}
+.projectRowParent {
+  position: absolute;
+  top: 1103px;
+  left: 0;
+  width: 1500px;
+  height: 1019px;
+  color: var(--color-white);
+}
+.logoTrans1 {
+  position: absolute;
+  top: 10px;
+  left: 103px;
+  width: 124px;
+  height: 67px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.caseStudy1Impact {
+  position: relative;
+  background-color: var(--bg);
+  width: 100%;
+  height: 2122px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--secondary-text);
+  font-family: var(--paragraph);
+}
